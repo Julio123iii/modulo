@@ -8,6 +8,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.0.1] - 2023-12-15
 ### Added
 
-- Inclusão de Changelog.md
+- added Changelog.md
 - Atividade realizada 
 
